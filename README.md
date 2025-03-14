@@ -1,0 +1,2 @@
+# sytnix
+just a OS
